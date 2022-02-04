@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @qlemon-56
 - 👀 I’m interested in ...
-  machine learning
+  web dev, and bots
 - 🌱 I’m currently learning ...
-  web development
-  maasterinng python
+  typescript
 - 💞️ I’m looking to collaborate on ...
-  python stuff .. i dunno.. cool projects
+  anything
 - 📫 How to reach me ... 
-  mail = markimade01@gmail.com
+  markimade01@gmail.com
 
 <!---
 qlemon-56/qlemon-56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
