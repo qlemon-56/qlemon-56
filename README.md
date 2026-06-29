@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @qlemon-56
-- 📫 How to reach me ... 
+## 👋 Hi, I’m Mark
+
+---
+## About me
+I'm a first year at the Unviersity of York studying Electronic and Computer Engineering.
+Currently I am really interested in C++ and trying to learn more about the fundamentals of computing.
+I volunteer at a couple of student organisations.
+My most used languages right now are C++ and Typescript
+
+--- 
+## Contact me
   markimade01@gmail.com
 
 <!---
