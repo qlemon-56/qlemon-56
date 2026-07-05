@@ -2,10 +2,8 @@
 
 ---
 ## About me
-I'm a first year at the University of York studying Electronic and Computer Engineering.
-I am really interested in programming (especially with C++), high performance computing, trading, and really just anything cool.
+I'm a first year at the University of York studying Electronic and Computer Engineering. Really interested in C++ and always looking to learn more.
 I volunteer at a couple of student organisations.
-My most used languages right now are C++ and Typescript.
 
 --- 
 ## Contact me
