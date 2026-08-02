@@ -9,9 +9,6 @@ I volunteer at a couple of student organisations.
 ## Contact me
   markimade01@gmail.com
 
----
-Please bear with me as I tidy up my profile
-
 <!---
 qlemon-56/qlemon-56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
