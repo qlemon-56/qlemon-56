@@ -2,8 +2,8 @@
 
 ---
 ## About me
-I'm a first year at the University of York studying Electronic and Computer Engineering. Really interested in C++ and always looking to learn more.
-I volunteer at a couple of student organisations.
+I'm an incoming second year at the University of York studying Electronic and Computer Engineering. Really interested in C++ and always looking to learn more.
+I volunteer at a couple of student organisations. I'm currently interning @Zetron
 
 --- 
 ## Contact me
